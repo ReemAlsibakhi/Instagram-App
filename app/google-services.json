@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227383493613",
+    "firebase_url": "https://instagram-ffd88.firebaseio.com",
+    "project_id": "instagram-ffd88",
+    "storage_bucket": "instagram-ffd88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227383493613:android:3df2a91ba6ab995ba79de4",
+        "android_client_info": {
+          "package_name": "com.reemsib.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227383493613-jup72mfl4bv4i8e6kk0847h4ajigbivn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_1EHTckxkriB9vStqSlwkFHzKE31RED0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227383493613-jup72mfl4bv4i8e6kk0847h4ajigbivn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
